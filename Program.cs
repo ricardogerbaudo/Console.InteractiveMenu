@@ -17,7 +17,14 @@ var options = new[]
 {
 	"Bulbasaur",
 	"Charmander",
-	"Squirtle"
+	"Squirtle",
+	"Pikachu",
+	"Jigglypuff",
+	"Meowth",
+	"Psyduck",
+	"Snorlax",
+	"Magikarp",
+	"Dragonite"
 };
 
 while (!isSelected)
